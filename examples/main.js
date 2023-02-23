@@ -9,8 +9,8 @@ import App from './App.vue'
 
 // Vue.use(Demo);
 // Vue.use(Card);
-import 'mooc-ui-dk/dist/css/index.css';
-import MUI from 'mooc-ui-dk';
+import 'mooc-ui-dk-dk/dist/css/index.css';
+import MUI from 'mooc-ui-dk-dk';
 Vue.use(MUI);
 Vue.config.productionTip = false
 

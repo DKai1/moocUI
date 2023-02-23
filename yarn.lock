@@ -8704,9 +8704,9 @@ module-alias@^2.2.2:
   resolved "https://registry.npmmirror.com/module-alias/-/module-alias-2.2.2.tgz#151cdcecc24e25739ff0aa6e51e1c5716974c0e0"
   integrity sha512-A/78XjoX2EmNvppVWEhM2oGk3x4lLxnkEA4jTbaK97QKSDjkIoOsKQlfylt/d3kKKi596Qy3NP5XrXJ6fZIC9Q==
 
-mooc-ui-dk@^0.1.0:
+mooc-ui-dk-dk@^0.1.0:
   version "0.1.0"
-  resolved "https://registry.npmmirror.com/mooc-ui-dk/-/mooc-ui-dk-0.1.0.tgz#e22b04c542750b19e71624a144833184e7845a3f"
+  resolved "https://registry.npmmirror.com/mooc-ui-dk-dk/-/mooc-ui-dk-dk-0.1.0.tgz#e22b04c542750b19e71624a144833184e7845a3f"
   integrity sha512-tLFRASe/3f/PLcZkVK+50SzcfHzO6oEQml6EloQeW743SIIUv4houhwJCFaokdaQ2wAStYKuqAL2Qpv5tX5ofw==
   dependencies:
     core-js "^3.8.3"
